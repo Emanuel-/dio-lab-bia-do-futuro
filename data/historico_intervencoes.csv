@@ -1,0 +1,6 @@
+data,evento_id,tipo_crise,orgao_atuante,status,resolucao
+2025-01-15,MACRO-001,Volatilidade Cambial,Banco Central,concluido,Swap Cambial de $500M
+2025-02-10,MACRO-002,Pico Inflacionário,COPOM,em_andamento,Ajuste na taxa Selic (+0.50bps)
+2025-03-05,MACRO-003,Déficit de Arrecadação,Receita Federal,aberto,Revisão de desonerações
+2025-04-12,MACRO-004,Crise de Liquidez Bancária,Banco Central,concluido,Liberação de Depósito Compulsório
+2025-05-20,MACRO-005,Inadimplência Setorial,BNDES,em_andamento,Refinanciamento de dívidas agrícolas

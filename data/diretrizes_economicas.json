@@ -1,0 +1,26 @@
+[
+  {
+    "perfil": "Austeridade (Conservador)",
+    "prioridade": "Equilíbrio das contas públicas",
+    "foco": "Controle da inflação e redução da dívida",
+    "estrategia": "Corte de gastos e manutenção de juros altos",
+    "indicador_chave": "Superávit Primário",
+    "vulnerabilidade": "Baixo crescimento do PIB no curto prazo"
+  },
+  {
+    "perfil": "Desenvolvimentista (Moderado/Arrojado)",
+    "prioridade": "Crescimento econômico e pleno emprego",
+    "foco": "Investimento público em infraestrutura e indústria",
+    "estrategia": "Crédito subsidiado e expansão da base monetária",
+    "indicador_chave": "Taxa de Investimento/PIB",
+    "vulnerabilidade": "Risco inflacionário e aumento do endividamento"
+  },
+  {
+    "perfil": "Welfare State (Social-Democrata)",
+    "prioridade": "Redução da desigualdade social",
+    "foco": "Serviços públicos e transferência de renda",
+    "estrategia": "Alta carga tributária com alta oferta de serviços",
+    "indicador_chave": "Índice de Gini e IDH",
+    "vulnerabilidade": "Pressão sobre a carga tributária e eficiência fiscal"
+  }
+]

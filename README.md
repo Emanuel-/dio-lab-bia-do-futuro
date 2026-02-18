@@ -35,10 +35,12 @@ Utilize os **dados mockados** disponíveis na pasta [`data/`](./data/) para alim
 
 | Arquivo | Formato | Descrição |
 |---------|---------|-----------|
-| `transacoes.csv` | CSV | Histórico de transações do cliente |
-| `historico_atendimento.csv` | CSV | Histórico de atendimentos anteriores |
-| `perfil_investidor.json` | JSON | Perfil e preferências do cliente |
-| `produtos_financeiros.json` | JSON | Produtos e serviços disponíveis |
+| `execucao_orcamentaria.csv` | CSV | Orçamento Geral da União: Registra a arrecadação de impostos (entradas) e os gastos públicos como saúde, educação e previdência (saídas). |
+| `historico_intervencoes.csv` | CSV | Livro de Intervenções: Registra crises econômicas (inflação alta, queda do PIB) e como os órgãos (BACEN, Tesouro) "atenderam" essa demanda. |
+| `diretrizes_economicas.json` | JSON | Regime Econômico: Define se o governo atual é focado em Austeridade (Conservador), Desenvolvimento (Arrojado) ou Bem-Estar Social. |
+| `instrumentos_macro.json` | JSON | Catálogo de Fomento: Lista os instrumentos que o Estado usa para se financiar ou intervir, como Títulos Públicos, Swaps Cambiais e Crédito Subsidiado. |
+
+
 
 Você pode adaptar ou expandir esses dados conforme seu caso de uso.
 

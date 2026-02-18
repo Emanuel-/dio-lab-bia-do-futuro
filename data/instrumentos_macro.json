@@ -1,0 +1,39 @@
+[
+  {
+    "nome": "Título Público (LFT/Selic)",
+    "instrumento": "Politica Monetária",
+    "risco_pais": "soberano",
+    "custo_para_o_estado": "Selic",
+    "impacto_fiscal": "Aumenta dívida bruta",
+    "objetivo": "Financiamento do déficit e controle de liquidez"
+  },
+  {
+    "nome": "Investimento Estrangeiro Direto (IED)",
+    "instrumento": "Fluxo de Capitais",
+    "risco_pais": "cambial/politico",
+    "retorno_esperado": "Crescimento do PIB",
+    "liquidez": "baixa (longo prazo)",
+    "objetivo": "Aumento da capacidade produtiva e reservas"
+  },
+  {
+    "nome": "Reservas Internacionais",
+    "instrumento": "Politica Cambial",
+    "risco_pais": "baixo (ativo em dólar)",
+    "custo_oportunidade": "Diferencial de juros (Cupom Cambial)",
+    "objetivo": "Proteção contra choques externos e volatilidade"
+  },
+  {
+    "nome": "Crédito de Bancos Públicos (BNDES)",
+    "instrumento": "Politica Parafiscal",
+    "risco_pais": "setorial",
+    "taxa": "TLP (Taxa de Longo Prazo)",
+    "objetivo": "Fomentar infraestrutura e reindustrialização"
+  },
+  {
+    "nome": "Swap Cambial",
+    "instrumento": "Derivativo Financeiro",
+    "risco_pais": "financeiro",
+    "natureza": "Controle de câmbio",
+    "objetivo": "Oferecer hedge ao mercado e evitar disparada do dólar"
+  }
+]

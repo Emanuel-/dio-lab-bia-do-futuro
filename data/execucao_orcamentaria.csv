@@ -1,0 +1,11 @@
+data,descricao,categoria,valor,tipo
+2025-10-01,Arrecadação IRPF,receita_tributaria,45000000.00,entrada
+2025-10-02,Pagamento Aposentadorias,previdência,120000000.00,saida
+2025-10-03,Repasse Fundo Partidário,transferencias,450000.00,saida
+2025-10-05,Dividendos Estatais,receita_patrimonial,15000000.00,entrada
+2025-10-07,Compra de Medicamentos SUS,saude,8900000.00,saida
+2025-10-10,Manutenção de Rodovias,infraestrutura,12000000.00,saida
+2025-10-12,Juros da Dívida Pública,servico_divida,45000000.00,saida
+2025-10-15,Folha de Pagamento Civil,pessoal,80000000.00,saida
+2025-10-20,Bolsa Família,assistencia_social,15000000.00,saida
+2025-10-25,Royalties do Petróleo,receita_patrimonial,25000000.00,entrada
