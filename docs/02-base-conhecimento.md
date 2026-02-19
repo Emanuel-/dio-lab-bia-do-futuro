@@ -55,6 +55,7 @@ with open('data/instrumentos_macro.json', 'r', encoding='utf-8') as f:
 > Os dados vão no system prompt? São consultados dinamicamente?
 
 **1. Cabeçalho de Status (Cards de Resumo)**
+
     No topo, o usuário vê os indicadores em tempo real processados a partir da execucao_orcamentaria.csv:
 
 - Resultado Primário: [R$ +XX Bi] (Verde se Superávit, Vermelho se Déficit).
@@ -64,11 +65,13 @@ with open('data/instrumentos_macro.json', 'r', encoding='utf-8') as f:
 - Risco País: [Baixo] (Baseado nos ativos do instrumentos_macro.json).
 
 **2. Painel Central (Gráfico e Chat)**
+
 - Lado Esquerdo: Um gráfico de pizza ou barras mostrando a composição dos gastos (Saúde vs. Educação vs. Defesa).
 
 - Lado Direito: Uma janela de chat onde o usuário pergunta: "Como a diretriz de austeridade afetou os investimentos em infraestrutura este mês?".
 
 **3. Linha do Tempo (Feed de Eventos)**
+
     Na base, um feed extraído do historico_intervencoes.csv mostrando as últimas ações do Estado:
 
 - [12/10] Intervenção: COPOM elevou Selic para conter inflação.
