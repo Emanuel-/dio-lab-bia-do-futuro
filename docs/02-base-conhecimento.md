@@ -54,26 +54,26 @@ with open('data/instrumentos_macro.json', 'r', encoding='utf-8') as f:
 ### Como os dados são usados no prompt?
 > Os dados vão no system prompt? São consultados dinamicamente?
 
-1. Cabeçalho de Status (Cards de Resumo)
-No topo, o usuário vê os indicadores em tempo real processados a partir da execucao_orcamentaria.csv:
+**1. Cabeçalho de Status (Cards de Resumo)**
+    No topo, o usuário vê os indicadores em tempo real processados a partir da execucao_orcamentaria.csv:
 
-Resultado Primário: [R$ +XX Bi] (Verde se Superávit, Vermelho se Déficit).
+- Resultado Primário: [R$ +XX Bi] (Verde se Superávit, Vermelho se Déficit).
 
-Diretriz Ativa: [Austeridade] (Lido do diretrizes_economicas.json).
+- Diretriz Ativa: [Austeridade] (Lido do diretrizes_economicas.json).
 
-Risco País: [Baixo] (Baseado nos ativos do instrumentos_macro.json).
+- Risco País: [Baixo] (Baseado nos ativos do instrumentos_macro.json).
 
-2. Painel Central (Gráfico e Chat)
-Lado Esquerdo: Um gráfico de pizza ou barras mostrando a composição dos gastos (Saúde vs. Educação vs. Defesa).
+**2. Painel Central (Gráfico e Chat)**
+- Lado Esquerdo: Um gráfico de pizza ou barras mostrando a composição dos gastos (Saúde vs. Educação vs. Defesa).
 
-Lado Direito: Uma janela de chat onde o usuário pergunta: "Como a diretriz de austeridade afetou os investimentos em infraestrutura este mês?".
+- Lado Direito: Uma janela de chat onde o usuário pergunta: "Como a diretriz de austeridade afetou os investimentos em infraestrutura este mês?".
 
-3. Linha do Tempo (Feed de Eventos)
-Na base, um feed extraído do historico_intervencoes.csv mostrando as últimas ações do Estado:
+**3. Linha do Tempo (Feed de Eventos)**
+    Na base, um feed extraído do historico_intervencoes.csv mostrando as últimas ações do Estado:
 
-[12/10] Intervenção: COPOM elevou Selic para conter inflação.
+- [12/10] Intervenção: COPOM elevou Selic para conter inflação.
 
-[05/10] Alerta: Déficit de arrecadação detectado na Receita Federal.
+- [05/10] Alerta: Déficit de arrecadação detectado na Receita Federal.
 
 
 ---
