@@ -56,7 +56,7 @@ with open('data/instrumentos_macro.json', 'r', encoding='utf-8') as f:
 
 **1. Cabeçalho de Status (Cards de Resumo)**
 
-    No topo, o usuário vê os indicadores em tempo real processados a partir da execucao_orcamentaria.csv:
+No topo, o usuário vê os indicadores em tempo real processados a partir da execucao_orcamentaria.csv:
 
 - Resultado Primário: [R$ +XX Bi] (Verde se Superávit, Vermelho se Déficit).
 
@@ -72,7 +72,7 @@ with open('data/instrumentos_macro.json', 'r', encoding='utf-8') as f:
 
 **3. Linha do Tempo (Feed de Eventos)**
 
-    Na base, um feed extraído do historico_intervencoes.csv mostrando as últimas ações do Estado:
+Na base, um feed extraído do historico_intervencoes.csv mostrando as últimas ações do Estado:
 
 - [12/10] Intervenção: COPOM elevou Selic para conter inflação.
 
