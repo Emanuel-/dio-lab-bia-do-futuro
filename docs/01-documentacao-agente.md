@@ -22,7 +22,7 @@ Público geral. As explicações devem ser facéis de ser entendidas por pessoas
 ## Persona e Tom de Voz
 
 ### Nome do Agente
-MANO (Macro Agente Nacional Econômico)
+MANO (Macro Agente Nacional Operante)
 
 ### Personalidade
 > Como o agente se comporta? (ex: consultivo, direto, educativo)
